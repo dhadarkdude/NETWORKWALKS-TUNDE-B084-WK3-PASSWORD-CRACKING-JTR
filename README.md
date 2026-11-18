@@ -30,57 +30,57 @@ NetworkWalks provided three password-locked PDFs, each hiding a flag that only u
 ```bash
 pdf2john My-Locked-PDF1.pdf > pdf1hash.txt
 ```
-![PDF1 hash extraction](./hashing_pdf1.png)
+![PDF1 hash extraction](./hashing%20pdf1.png)
 
 **2. Crack offline with John the Ripper:**
-![PDF1 cracked with John the Ripper](./pdf1_cracked.png)
+![PDF1 cracked with John the Ripper](./pdf1%20cracked.png)
 
 **3. Cross-check with NetworkWalks Hash Calculator:**
-![PDF1 hash via NetworkWalks Hash Calculator](./pdf1_NW_hash_calc.png)
+![PDF1 hash via NetworkWalks Hash Calculator](./pdf1%20NW%20hash%20calc.png)
 
 **4. Cross-check with NetworkWalks Password Cracker (dictionary attack):**
-![PDF1 cracked via NetworkWalks Password Cracker](./pdf1_NW_password_cracked.png)
+![PDF1 cracked via NetworkWalks Password Cracker](./pdf1%20NW%20password%20cracked.png)
 
 **5. Unlock the PDF and capture the flag:**
-![PDF1 flag captured](./pdf1_success.png)
+![PDF1 flag captured](./pdf1%20success.png)
 
 ### PDF2
 
 **1. Extract the hash:**
-![PDF2 hash extraction](./pdf2_hashed.png)
+![PDF2 hash extraction](./pdf2%20hashed.png)
 
 **2. Crack offline with John the Ripper:**
-![PDF2 cracked with John the Ripper](./pdf2_cracked.png)
+![PDF2 cracked with John the Ripper](./pdf2%20cracked.png)
 
 **3. Cross-check with NetworkWalks Hash Calculator:**
-![PDF2 hash via NetworkWalks Hash Calculator](./pdf2_NW_hash_calc.png)
+![PDF2 hash via NetworkWalks Hash Calculator](./pdf2%20NW%20hash%20calc.png)
 
 **4. Cross-check with NetworkWalks Password Cracker (dictionary attack):**
-![PDF2 cracked via NetworkWalks Password Cracker](./pdf2_NW_pass_cracked.png)
+![PDF2 cracked via NetworkWalks Password Cracker](./pdf2%20NW%20pass%20cracked.png)
 
 **5. Unlock the PDF and capture the flag:**
-![PDF2 flag captured](./pdf2_success.png)
+![PDF2 flag captured](./pdf2%20success.png)
 
 ### PDF3
 
 **1. Extract the hash:**
-![PDF3 hash extraction](./pdf3_hashed.png)
+![PDF3 hash extraction](./pdf3%20hashed.png)
 
 **2. Crack offline with John the Ripper:**
-![PDF3 cracked with John the Ripper](./pdf3_cracked.png)
+![PDF3 cracked with John the Ripper](./pdf3%20cracked.png)
 
 **3. Cross-check with NetworkWalks Hash Calculator:**
-![PDF3 hash via NetworkWalks Hash Calculator](./pdf3_NW_hash_calc.png)
+![PDF3 hash via NetworkWalks Hash Calculator](./pdf3%20NW%20hash%20calc.png)
 
 **4. Cross-check with NetworkWalks Password Cracker (dictionary attack):**
-![PDF3 cracked via NetworkWalks Password Cracker](./pdf3_NW_pass_cracked.png)
+![PDF3 cracked via NetworkWalks Password Cracker](./pdf3%20NW%20pass%20cracked.png)
 
 **5. Unlock the PDF and capture the flag:**
-![PDF3 flag captured](./pdf3_success.png)
+![PDF3 flag captured](./pdf3%20success.png)
 
 ### All Three Passwords, Side by Side
 
-![All three cracked passwords compared](./all_passwords.png)
+![All three cracked passwords compared](./all%20passwords.png)
 
 ## Lab Verification
 
